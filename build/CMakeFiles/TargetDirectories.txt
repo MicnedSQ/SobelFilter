@@ -1,0 +1,3 @@
+/home/micnedsq/Studia/Semestr1/AAW/SobelFilter/build/CMakeFiles/SobelFilter.dir
+/home/micnedsq/Studia/Semestr1/AAW/SobelFilter/build/CMakeFiles/edit_cache.dir
+/home/micnedsq/Studia/Semestr1/AAW/SobelFilter/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/micnedsq/Studia/Semestr1/AAW/SobelFilter/build",
+  "command": "/usr/bin/g++  -I/opt/AMDAPPSDK-2.9-1/include -I/home/micnedsq/Studia/Semestr1/AAW/SobelFilter/../../../../include/SDKUtil -I/opt/AMDAPPSDK-2.9-1/include/SDKUtil -isystem /usr/local/include/opencv4 -g  -g  -m64    -o CMakeFiles/SobelFilter.dir/SobelFilter.cpp.o -c /home/micnedsq/Studia/Semestr1/AAW/SobelFilter/SobelFilter.cpp",
+  "file": "/home/micnedsq/Studia/Semestr1/AAW/SobelFilter/SobelFilter.cpp"
+}
+]
